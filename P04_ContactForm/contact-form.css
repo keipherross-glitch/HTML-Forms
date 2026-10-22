@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #888;
+}
+
+form {
+    width: 600px;
+    margin: 40px auto;
+    padding: 20px 15px 30px;
+    background: #F7F7F7;
+    border: 1px solid #ddd;
+}
+
+header {
+    padding: 0 0 10px 50px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #ddd;
+}
+
+h1 {
+    margin: 0;
+    font-size: 1.9em;
+}
+
+header p {
+    margin: 0;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+.row {
+    margin-bottom: 18px;
+}
+
+label {
+    display: inline-block;
+    width: 90px;
+    margin-right: 5px;
+    padding-top: 10px;
+    vertical-align: top;
+    text-align: right;
+    font-size: 0.85em;
+}
+
+input[type="text"],
+input[type="email"],
+textarea,
+select {
+    width: 395px;
+    padding: 10px;
+    border: 2px solid #eee;
+    background: #FFF;
+    font-family: Arial, sans-serif;
+    font-size: 0.85em;
+    color: #888;
+}
+
+textarea {
+    height: 120px;
+    font-family: monospace;
+}
+
+input[type="submit"] {
+    width: 245px;
+    margin-left: 100px;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background: #E27575;
+    color: #FFF;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+}
