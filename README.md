@@ -21,9 +21,3 @@ Download or clone the repository, open a folder, and open the `.html` file in yo
 
 Exercise 2 loads Font Awesome and Google Fonts from the internet, so it needs a connection to display correctly.
 
-## Technologies
-
-- HTML5
-- CSS3
-- Font Awesome 4.7 (exercise 2)
-- Google Fonts: Oxygen, Comfortaa, Open Sans
